@@ -16,3 +16,8 @@ Ou você pode baixar manualmente pelo kaggle: https://www.kaggle.com/uciml/fores
 <br> 
 
 Após feito o download, descompacte o arquivo .zip and be happy ;)
+
+```
+unzip <data-set-folder-name-in-here>.zip
+```
+
